@@ -22,7 +22,7 @@ class Education extends StatelessWidget{
           Text('        '),
           Text('11  and  12',style: TextStyle(fontSize: 15,fontWeight: FontWeight.bold),),
           Text('        '),
-          Text('Batchler of Technology',style: TextStyle(fontSize: 15,fontWeight: FontWeight.bold),),
+          Text('Batchler of Technologysssssss',style: TextStyle(fontSize: 15,fontWeight: FontWeight.bold),),
           Text('        '),
 
       ],)
